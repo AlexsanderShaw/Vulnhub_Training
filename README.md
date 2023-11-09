@@ -1,6 +1,5 @@
 # Vulnhub_Training
-- [![blog]([https://img.shields.io/badge/v4ler1an-Blog-blue)](https://img.shields.io/badge/vulnhub-v4ler1an-blue)]
-- ![](https://img.shields.io/badge/keep%20hacking-8A2BE2)
+![blog](https://img.shields.io/badge/v4ler1an-Blog-blue)  ![](https://img.shields.io/badge/keep%20hacking-8A2BE2)
 
 ## Description
 
