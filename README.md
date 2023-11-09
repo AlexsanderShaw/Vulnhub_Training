@@ -1,12 +1,5 @@
 # Vulnhub_Training
 
-## About Me 👋
-- 👻  Vulnerability Hunter
-- 🎰  CTF Player
-- [![blog](https://img.shields.io/badge/v4ler1an-Blog-blue)](https://www.v4ler1an.com/)
-- [![kanxue URL](https://img.shields.io/badge/%E6%9C%89%E6%AF%92-%E7%9C%8B%E9%9B%AA%E8%AE%BA%E5%9D%9B-lightgrey)](https://bbs.pediy.com/user-home-779730.htm)
-- [![Twitter URL](https://img.shields.io/twitter/url?label=v4ler1an%20%7C%20Twitter&style=social&url=https%3A%2F%2Fshields.io)](https://twitter.com/YaoyaoShaw)
-
 ## Description
 
 Here is my vulnhub training records. Update every week.
@@ -40,3 +33,11 @@ Here is my vulnhub training records. Update every week.
 
 1. [CyberChef](https://gchq.github.io/CyberChef)
 2. [Brainfuck && Ook](https://www.splitbrain.org/_static/ook/)
+
+
+## About Me 👋
+- 👻  Vulnerability Hunter
+- 🎰  CTF Player
+- [![blog](https://img.shields.io/badge/v4ler1an-Blog-blue)](https://www.v4ler1an.com/)
+- [![kanxue URL](https://img.shields.io/badge/%E6%9C%89%E6%AF%92-%E7%9C%8B%E9%9B%AA%E8%AE%BA%E5%9D%9B-lightgrey)](https://bbs.pediy.com/user-home-779730.htm)
+- [![Twitter URL](https://img.shields.io/twitter/url?label=v4ler1an%20%7C%20Twitter&style=social&url=https%3A%2F%2Fshields.io)](https://twitter.com/YaoyaoShaw)
