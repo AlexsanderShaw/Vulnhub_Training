@@ -4,7 +4,7 @@
 - wfuzz -- parameter fuzzing tool
 - php filter -- get the source code of php file
 - LFI -- local file include
-- join -- hash crack
+- john -- hash crack
 - chang /etc/paswd file to change root's passwd
 
 ## 1. Environment Setup
