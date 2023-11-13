@@ -14,7 +14,7 @@ Here is my vulnhub training records. Update every week.
 - [Drippingblues](https://github.com/AlexsanderShaw/Vulnhub_Training/blob/main/vulnhub_Walkthrough-drippingblues.md)
 
 - [Deathnote](https://github.com/AlexsanderShaw/Vulnhub_Training/blob/main/vulnhub_Walkthrough-Deathnote.md)
-- 
+- [Evilbox](https://github.com/AlexsanderShaw/Vulnhub_Training/blob/main/vulnhub_Walkthrough-evilbox.md)
 
 
 
