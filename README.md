@@ -15,6 +15,9 @@ Here is my vulnhub training records. Update every week.
 
 - [Deathnote](https://github.com/AlexsanderShaw/Vulnhub_Training/blob/main/vulnhub_Walkthrough-Deathnote.md)
 - [Evilbox](https://github.com/AlexsanderShaw/Vulnhub_Training/blob/main/vulnhub_Walkthrough-evilbox.md)
+- [Empire LupinOne](https://github.com/AlexsanderShaw/Vulnhub_Training/blob/main/vulnhub_Walkthrough-Empire_LupinOne.md)
+- [Empire Breakout](https://github.com/AlexsanderShaw/Vulnhub_Training/blob/main/vulnhub_Walkthrough-Empire_Breakout.md)
+- [HackMePlease](https://github.com/AlexsanderShaw/Vulnhub_Training/blob/main/vulnhub_Walkthrough-HackMePlease.md)
 
 
 
